@@ -44,22 +44,40 @@ Maurizio和Alice等人在2014年提出使用SVM和GMM方法检测SSH隧道上应
 
 # 参考文献
 【1】Two-phased method for identifying SSH encrypted application flows
+
 【2】Identifying the traffic of SSH-encrypted applications
+
 【3】Identification of SSH Applications Based on Convolutional Neural Network
+
 【4】Study on SSH application classification based on machine learning.
+
 【5】基于XGBoost的SSH流量识别研究
+
 【6】Tunnel Hunter Detecting Application-Layer Tunnels with Statistical Fingerprinting
+
 【7】基于行为特征的SSH流分类系统研究与实现
+
 【8】基于深度学习的SSH隧道下应用的精细化识别研究和实现
+
 【9】SSH隧道流量检测与识别技术研究
+
 【10】Fingerprinting encrypted network traffic types using machine learning
+
 【11】Inferring the Source of Encrypted HTTP Connections
+
 【12】Website Fingerprinting using Traffic Analysis of Dynamic Webpages
+
 【13】WebsiteFingerprintingAndIdenti
+
 【14】Website Fingerprinting attacking popular privacy enhancing technologies with MNB
+
 【15】Website Fingerprinting attack on anonymity networks based on profile hidden markov model
+
 【16】A novel website fingerprinting attack against multi-tab browsing behavior
+
 【17】Website fingerprinting attack on Psiphon and Its Forensic Analysis
+
 【18】A method for Http-Tunnel Detection based on statistical features of traffic
+
 【19】Detection of Application-Layer Tunnels with Rules and Machine Learning
 
